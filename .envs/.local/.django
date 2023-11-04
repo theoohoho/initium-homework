@@ -1,0 +1,6 @@
+# General
+# ------------------------------------------------------------------------------
+USE_DOCKER=yes
+IPYTHONDIR=/app/.ipython
+VIRTUAL_HOST=my-hostname
+VIRTUAL_PORT=8000
